@@ -1,5 +1,5 @@
 # SISSA-QM-course
-Advanced Quantum Mechanics course for Master Complex Systems
+*Advanced Quantum Mechanics course for Master Complex Systems*
 
 
 Topics covered/calendar
